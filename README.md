@@ -8,7 +8,7 @@ be running.
 The just execute: `./python.sh > out.py` and copy and paste the content of `out.py`
 into their Python repl.
 
-You should now have remte access, commands:
+You should now have remote access, commands:
 
 * `destruct` - Remove all traces and kill the program
 * `chat [message]` - Chat with the person on the other side
